@@ -1,0 +1,40 @@
+{
+    "Property":{
+        "Name":"Renaissance Tower",
+        "Address":"1201 Elm Street, Dalas, TX 75251",
+        "Property Type":"Commercial",
+        "Property Class":"A",
+        "Floors": 56,
+        "Total Building Area": 1700000,
+        "Tenancy": "Lorem Ipsum",
+        "No. of Tenant": "59",
+        "Website": "www.renaissancetower.net",
+        "Year Built": 1974,
+        "Description": "Renaissance Tower is a 56-story, 1,738,979 square foot Class A trophy office tower located in the heart of the Dallas Central Business District. Completed in 1974, the office tower was substantially renovated between 1986 and 1991 and emerged with a heightened image and even more illustrious profile within Downtown Dallas. Renowned for its distinctive double 'X' lighting and majestic rooftop spires, Renaissance Tower is a Dallas Landmark."
+    },
+
+    "Availability":[
+       {
+           "Unit Name/Number":"Renaissance Tower, 1/F-, 1-999",
+            "Record Type": "Vacant", 
+            "Available Area":11
+        },
+
+        {
+            "Unit Name/Number":"Renaissance Tower, 2/F-, 2-999",
+            "Record Type": "Future Available", 
+            "Available Area":11
+        },
+        {
+            "Unit Name/Number":"Renaissance Tower, 3/F-, 3-999",
+            "Record Type": "Future Available",
+            "Available Area":11
+        },
+
+        {
+            "Unit Name/Number":"Renaissance Tower, 4/F-, 4-999",
+            "Record Type": "Future Available", 
+            "Available Area":11
+        }
+    ]
+}
