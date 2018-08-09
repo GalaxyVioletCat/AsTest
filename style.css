@@ -1,6 +1,6 @@
 body{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    font-weight: normal;
 
 }
 
@@ -25,4 +25,15 @@ section #1{
 .map {
 	width: 100%;
 	height:45%;
+}
+#describe {
+    padding-block-start: 2%;
+}
+
+table{
+    border-spacing: 20px, 4px;
+    border-top-left-radius: 1%;
+    border-top-right-radius: 1%;
+    border-bottom-left-radius: 1%;
+    border-bottom-right-radius: 1%;
 }
